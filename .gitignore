@@ -1,0 +1,10 @@
+# Build output
+out/
+*.class
+
+# Compiled launcher artifacts
+sources.txt
+
+# Local/editor files
+.DS_Store
+*.swp
